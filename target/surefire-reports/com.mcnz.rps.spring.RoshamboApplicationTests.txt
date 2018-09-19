@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mcnz.rps.spring.RoshamboApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.344 s - in com.mcnz.rps.spring.RoshamboApplicationTests
